@@ -94,3 +94,9 @@ Topics you should know in System Design --
 [Design Tiny URL](https://medium.com/coders-mojo/day-26-of-system-design-case-studies-series-design-tiny-url-4850ed7922e?sk=732181ae6072053c6644d5fb2b57e80e)
 
 [Design Flipkart](https://medium.com/coders-mojo/day-24-of-system-design-case-studies-series-design-flipkart-42af832b9794?sk=1deba4c6880a18e363bbcb2cc5aa0f9c)
+
+---------------------------
+
+# ML System Design Case Studies 
+
+[ML System Design Case Studies Series](https://bit.ly/3i5EDiH)
