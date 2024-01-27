@@ -2,6 +2,8 @@
 
 This repository contains everything you need to become proficient in System Design and Case Studies with Code Implementation
 
+Youtube for all the implemented projects and tech interview resources - [Ignito Youtube Channel](https://www.youtube.com/@ignito5917/about)
+
 Topics you should know in System Design --
 
 1. [System design basics](https://medium.com/coders-mojo/complete-system-design-series-part-1-45bf9c8654bc)
